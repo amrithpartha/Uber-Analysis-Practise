@@ -1,4 +1,4 @@
-# Uber-Analysis-Practise
+# Uber-Data-Analysis-Practise
 
 This is Just a overview practise of UberDataset based on first statement:
   1. find number of rides for each dataset
